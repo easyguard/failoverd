@@ -1,0 +1,7 @@
+[package]
+name = "failoverd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+interfaces = "0.0.9"
